@@ -1,9 +1,6 @@
 # Data Sources
 
 ## Netflix SEC Filings
-# Data Sources
-
-## Netflix SEC Filings
 
 | Reporting Period | Filing Type                   | Filed On         | Links                                                                              |
 | ---------------- | ----------------------------- | ---------------- | ----------------------------------------------------------------------------------|
